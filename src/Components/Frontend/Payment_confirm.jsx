@@ -87,7 +87,7 @@ function Payment_confirm() {
                     <h6>$ 0.00</h6>
                   </div>
                 </div>
-                <button className="btn-1" onClick={() => navigate("/payment-success")}>pay now</button>
+                <button className="btn-1" onClick={() => navigate("/payment-successfull")}>pay now</button>
               </div>
             </div>
           </div>
