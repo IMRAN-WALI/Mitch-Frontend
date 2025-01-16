@@ -79,36 +79,6 @@ function Generated() {
                   Cupiditate quidem, dolores amet odit dolor molestiae corrupti,
                   nemo quod deleniti voluptate omnis, illum fuga.
                 </p>
-                <p>
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                  Recusandae consequuntur repellendus veniam a animi eum
-                  exercitationem aliquam sed harum. Ut aut aperiam fugiat
-                  voluptatum inventore sed commodi laboriosam illum id.
-                  Temporibus voluptatum, itaque odit similique sed nobis cum
-                  enim modi perspiciatis consequuntur harum assumenda reiciendis
-                  quas qui minima corrupti laudantium! Praesentium recusandae
-                  repellendus ratione ea sequi! Veniam quidem ad nihil? Saepe
-                  minima esse similique optio aliquam, in iure distinctio
-                  quisquam aliquid, repellat laudantium corporis, deserunt
-                  voluptates? Nobis obcaecati in velit recusandae, quas
-                  repellendus sunt natus necessitatibus facilis eveniet est
-                  quam!
-                </p>
-                <p>
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                  Recusandae consequuntur repellendus veniam a animi eum
-                  exercitationem aliquam sed harum. Ut aut aperiam fugiat
-                  voluptatum inventore sed commodi laboriosam illum id.
-                  Temporibus voluptatum, itaque odit similique sed nobis cum
-                  enim modi perspiciatis consequuntur harum assumenda reiciendis
-                  quas qui minima corrupti laudantium! Praesentium recusandae
-                  repellendus ratione ea sequi! Veniam quidem ad nihil? Saepe
-                  minima esse similique optio aliquam, in iure distinctio
-                  quisquam aliquid, repellat laudantium corporis, deserunt
-                  voluptates? Nobis obcaecati in velit recusandae, quas
-                  repellendus sunt natus necessitatibus facilis eveniet est
-                  quam!
-                </p>
               </div>
               <div className="contanier btn-Generated">
                 <div className="row SDD-Generated">
