@@ -29,7 +29,7 @@ function Verification() {
                 <img src={verifyImage} alt="Verification Icon" width="100" />
               </span>
               <h1 className="verify1-pg">Sign-up Successful</h1>
-              <p className="headings">
+              <p>
                 You’re just one step ahead to generate stories that you want to create.
               </p>
             </div>
