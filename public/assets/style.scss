@@ -4725,21 +4725,20 @@ img {
   .Home-section {
     .hero {
       .box {
-        width:47%;
+        width: 47%;
         padding: 40px;
         h3 {
-          font-size: 50px;
+          font-size: 52px;
         }
       }
     }
   }
-  
 
   @media (max-width: 1440px) {
     .Home-section {
       .hero {
         .box {
-          width:51%;
+          width: 51%;
           padding: 40px;
           h3 {
             font-size: 48px;
@@ -4767,7 +4766,7 @@ img {
     .Home-section {
       .hero {
         .box {
-          width: 55%;
+          width: 47%;
           padding: 40px;
           h3 {
             font-size: 43px;
@@ -4775,7 +4774,6 @@ img {
         }
       }
     }
-    
   }
 }
 
@@ -4789,7 +4787,7 @@ img {
 
     .container-Generated {
       margin: 0 30px;
-      height: 45rem; // Adjust container height
+      height: 97vh; // Adjust container height
       padding: 25px 15px;
     }
 
@@ -4850,7 +4848,7 @@ img {
 
       .container-Generated {
         margin: 0 30px;
-        height: 27.9rem !important; // Adjust container height
+        height: 100% ; // Adjust container height
         padding: 25px 15px;
       }
 
@@ -5197,7 +5195,7 @@ img {
 
       .container-Generated {
         margin: 0 30px;
-        height: 25.4rem !important; // Adjust container height
+        height: 100%; // Adjust container height
         padding: 25px 15px;
       }
 
@@ -5544,7 +5542,7 @@ img {
 
       .container-Generated {
         margin: 0 30px;
-        height: 45rem; // Adjust container height
+        // height: 45rem; // Adjust container height
         padding: 25px 15px;
       }
 
@@ -7692,7 +7690,7 @@ img {
     }
 
     .container-tip {
-      height: 45rem;
+      height: 100%;
       padding: 25px;
     }
 
@@ -8018,7 +8016,7 @@ img {
       }
 
       .container-tip {
-        height: 28.5rem !important;
+        // height: 28.5rem !important;
         padding: 20px;
       }
 
@@ -8346,7 +8344,7 @@ img {
       }
 
       .container-tip {
-        height: 26rem !important;
+        // height: 26rem !important;
         padding: 15px;
       }
 
@@ -9012,7 +9010,7 @@ img {
       .container-account {
         // margin: 0 30px;
         padding: 15px 28px !important;
-        height: 25rem !important;
+        height: 80vh;
       }
 
       .gen {
@@ -9840,7 +9838,7 @@ img {
 
       .container-account {
         padding: 0 28px !important;
-        height: 23rem !important;
+        height: 75vh;
       }
 
       h1 {

@@ -34,7 +34,10 @@ export default function App() {
           <Route path="/payment" element={<Payment />} />
           <Route path="/stripe-card" element={<Add_Stripe_card />} />
           <Route path="/payment-confirm" element={<Payment_confirm />} />
-          <Route path="/payment-successfull" element={<Payment_successfull />} />
+          <Route
+            path="/payment-successfull"
+            element={<Payment_successfull />}
+          />
           <Route path="/login-inner" element={<Login_inner />} />
           <Route path="/preview" element={<Storypreview />} />
           <Route path="/generated" element={<Generated />} />
